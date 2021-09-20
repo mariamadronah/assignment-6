@@ -1,0 +1,84 @@
+body{
+    /* background-image: url(../images/images\ bg.jpg);
+    background-size: 1200px; */
+    background-color:silver;
+}
+.container{
+    background-image: url(/images/images\ bg.jpg);
+    background-size: 1200px;
+    margin-top: 50px;
+    margin-bottom: 200px;
+    margin-right: 150px;
+    margin-left: 80px;
+    border-radius: 20px;
+
+}
+.pic{
+    max-width: 250px;
+    max-height: 150px;
+    border-radius: 60%;
+    margin-left: 200px;
+    margin-right: auto;
+    display: block;  
+}
+.content{
+   /* text-align: center;  */
+   text-transform: uppercase;
+   margin-left: 200px;
+}
+
+/* .con1{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: 600px;
+    margin-right: auto;
+    display: block;
+}   
+.con2{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin-left: 600px;
+    margin-right: auto;
+    display: block; */
+}  
+.mail{
+    text-align: right;
+    margin-bottom: 100px;
+    margin-right:200px ;
+    top: 50px;
+}
+.phone{
+    text-align: right;
+    margin-bottom: 100px;
+    margin-right:200px ;
+}
+.contact{
+    text-align: right;
+    margin-right: 50px;
+    color:yellow;
+}
+.card:hover{
+    box-shadow: 0px 8px 16px 0px white;
+    cursor: pointer;
+}
+#p1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1px;
+
+}
+#p2{
+    margin-left: 13px;
+}
+hr{
+    width: 20%;
+    margin-left: 5px;
+    color: black;
+}
+label{
+    text-transform: capitalize;
+}
+#l1{
+    border: solid white;
+}
